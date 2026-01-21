@@ -1,0 +1,35 @@
+
+# Titanic Survival Analysis – Exploratory Data Analysis (EDA)
+
+## 📌 Project Overview
+This project focuses on performing **Exploratory Data Analysis (EDA)** on the Titanic dataset to uncover meaningful survival patterns among passengers.  
+The goal is to demonstrate **data cleaning, analysis, and insight generation** using Python libraries.
+
+
+## 🛠 Tools & Technologies
+- Python  
+- Pandas  
+- Matplotlib  
+
+
+## 🔍 What I Did in This Project
+- Loaded and explored the dataset to understand its structure and data types  
+- Handled missing values using appropriate strategies (median for numerical data, mode for categorical data)  
+- Performed **feature engineering** by creating age groups using binning  
+- Analyzed survival trends using `groupby()` and aggregation techniques  
+- Visualized key insights using simple and clear bar charts  
+
+
+## 📊 Key Insights
+- Female passengers had a significantly higher survival rate compared to males  
+- First-class passengers had better survival chances than third-class passengers  
+- Children showed higher survival probability compared to adults and seniors  
+
+
+## 📁 Dataset
+Titanic dataset (publicly available dataset)
+
+
+## ✅ Conclusion
+This project strengthened my understanding of **real-world data analysis**, especially data cleaning, feature engineering, and extracting insights using Pandas.  
+It focuses on **understanding data before modeling**, which is a critical step in any Data Science workflow.
