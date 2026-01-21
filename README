@@ -1,8 +1,10 @@
 # Titanic Survival Analysis – Exploratory Data Analysis (EDA)
 
+🚀 A beginner-friendly Data Science project focused on real-world data cleaning and analysis using Pandas.
+
 ## 📌 Project Overview
 This project focuses on performing **Exploratory Data Analysis (EDA)** on the Titanic dataset to uncover meaningful survival patterns among passengers.  
-The goal is to demonstrate **data cleaning, analysis, and insight generation** using Python libraries.
+The objective is to demonstrate **data cleaning, feature engineering, and insight generation** using Python libraries.
 
 ---
 
@@ -15,10 +17,10 @@ The goal is to demonstrate **data cleaning, analysis, and insight generation** u
 
 ## 🔍 What I Did in This Project
 - Loaded and explored the dataset to understand its structure and data types  
-- Handled missing values using appropriate strategies (median for numerical data, mode for categorical data)  
-- Performed **feature engineering** by creating age groups using binning  
-- Analyzed survival trends using `groupby()` and aggregation techniques  
-- Visualized key insights using simple and clear bar charts  
+- Handled missing values using appropriate strategies (median for numerical data and mode for categorical data)  
+- Performed **feature engineering** by creating age groups using binning techniques  
+- Analyzed survival trends using `groupby()` and aggregation functions  
+- Visualized key insights using clear and simple bar charts  
 
 ---
 
@@ -36,4 +38,4 @@ Titanic dataset (publicly available dataset)
 
 ## ✅ Conclusion
 This project strengthened my understanding of **real-world data analysis**, especially data cleaning, feature engineering, and extracting insights using Pandas.  
-It focuses on **understanding data before modeling**, which is a critical step in any Data Science workflow.
+It focuses on **understanding data before modeling**, which is a crucial step in any Data Science workflow.
